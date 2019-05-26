@@ -1,5 +1,8 @@
 # vim
 
+    
+   Vim is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X.
+
    
    #### Modes in vim
    
@@ -10,7 +13,7 @@
    
   #### To create a file with vim:
   
-  * Type the command vim file_name.extension (e.g. vim_example.txt) 
+  * Type the command vim file_name.extension (e.g. vim_example.txt) or vi file_name.extension
   
   * The editor starts in command mode. 
   
